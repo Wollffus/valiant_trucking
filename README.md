@@ -9,7 +9,7 @@ trucking style routes. Cleaned up some areas, and swapped out the rigs.
 
     es_extended
 
-Setup
+# Setup
 
     Install into your resources
     Import valiant_trucking.sql in your database
